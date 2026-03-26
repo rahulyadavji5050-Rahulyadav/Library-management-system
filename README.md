@@ -8,7 +8,7 @@ It helps to manage books, issue and return records.
 ## 👨‍💻 Submitted By
 
 Rahul Yadav ,
-Praveen Patidar
+Praveen Patidar BCA 2nd Year
 
 ## 🚀 Features
 

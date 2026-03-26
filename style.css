@@ -1,0 +1,173 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #f0f2f5;
+}
+.logout-box {
+    width: 220px;
+    margin: 30px auto;
+    padding: 15px;
+    background: linear-gradient(45deg, #ff4b2b, #ff0000);
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+}
+
+.logout-box a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+/* NAVBAR */
+.navbar {
+    background: #2c3e50;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
+
+/* CONTAINER */
+.container {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+/* CARD */
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+}
+
+/* BUTTON */
+.btn {
+    display: inline-block;
+    padding: 10px 15px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #2980b9;
+}
+
+/* FORM */
+form {
+    background: white;
+    padding: 20px;
+    width: 350px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px gray;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+/* TABLE */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th {
+    background: #3498db;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background: #f2f2f2;
+}
+body {
+    background-image: url('rahul.jpg');
+    background-size: cover;        /* full screen cover */
+    background-repeat: no-repeat;  /* repeat na ho */
+    background-position: center;   /* center me aaye */
+    
+    .dashboard-bg {
+    background-image: url('images/rahul2.jpg'); /* Image ka path */
+    background-size: cover;           /* Poora screen cover kare */
+    background-repeat: no-repeat;     /* Repeat na ho */
+    background-position: center;      /* Center me dikhe */
+    height: 100vh;                    /* Full screen height */
+}
+/* TABLE STYLE */
+.view-books-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(255,255,255,0.9); /* semi-transparent white */
+    margin-top: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.view-books-table th, .view-books-table td {
+    padding: 12px;
+    text-align: center;
+}
+
+.view-books-table th {
+    background-color: #3498db;
+    color: white;
+}
+
+.view-books-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* BUTTON */
+.btn {
+    padding: 8px 12px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+}
+
+/* CONTAINER */
+.container {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+/* NAVBAR */
+.navbar {
+    background: #2c3e50;
+    padding: 15px;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}
+}
+.msg {
+    text-align: center;
+    color: green;      /* Yahan tum color change kar sakte ho */
+    font-weight: bold;
+    margin-bottom: 10px;
+}
